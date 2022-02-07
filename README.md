@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RicardoHdzS
-- I’m interested in technology, big data, data science, web development
-- I’m currently learning programming languajes and Azure
+- I’m interested in technology, web development, cloud, big data.
+- I’m currently learning programming languajes and Azure.
 - I’m looking to collaborate on microsoft azure platform
 
 <!---
